@@ -1,0 +1,14 @@
+{
+    "messages": {
+        "InvalidAuthenticationException": "<strong>Oops!</strong> Your credentials don't match.",
+        "UserExistsException": "<strong>Ops!</strong> Perdão. Já consta um token desse usuário no sistema.",
+        "ServerErrorException": "<strong>Bug Bug Bug!</strong> Algo errado no sistema",
+        "ValidationException": "<strong>Ops!</strong> Please review the form.",
+        "PasswordTokenNotValidException": "<strong>Ops!</strong> It seems your token is invalid.",
+        "OwnEmailException": "<strong>Ops!</strong>Parece que você esta digitando seu e-mail atual.",
+        "NotFound": "Não achamos esse e-mail na nossa base de dados",
+        "UserHasBeenTakenException": "<strong>Ops!</strong> Parece que este usuário já existe.",
+        "EmailTokenNotValidException": "<strong>Ops!</strong> Parece que este token está inválido.",
+        "UserNotFoundException": "<strong>Ops!</strong> Usuário não encontrado."
+    }
+}
